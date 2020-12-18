@@ -2,7 +2,7 @@
 # MODULE 02 RUN-BUDDY
 ## U of A Bootcamp, December 2020
 
-*TBD: *update url here **
+[https://vloebel.github.io/run-buddy-02/](https://vloebel.github.io/run-buddy-02/)
 
 **Original Source**
 * University of Arizona Coding Bootcamp  
